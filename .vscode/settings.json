@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "graphics.h": "c",
+        "animation.h": "c",
+        "types.h": "c",
+        "player.h": "c",
+        "tileset.h": "c",
+        "ui.h": "c",
+        "stdio.h": "c",
+        "object.h": "c",
+        "utils.h": "c",
+        "sdl_mixer.h": "c"
+    }
+}
